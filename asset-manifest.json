@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4a690a7.chunk.css",
-    "main.js": "/static/js/main.ee3cdd2e.chunk.js",
-    "main.js.map": "/static/js/main.ee3cdd2e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c83fe18.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c83fe18.js.map",
-    "static/js/2.85460b19.chunk.js": "/static/js/2.85460b19.chunk.js",
-    "static/js/2.85460b19.chunk.js.map": "/static/js/2.85460b19.chunk.js.map",
-    "static/js/3.48e1674f.chunk.js": "/static/js/3.48e1674f.chunk.js",
-    "static/js/3.48e1674f.chunk.js.map": "/static/js/3.48e1674f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c4a690a7.chunk.css.map": "/static/css/main.c4a690a7.chunk.css.map",
-    "static/js/2.85460b19.chunk.js.LICENSE.txt": "/static/js/2.85460b19.chunk.js.LICENSE.txt"
+    "main.css": "/mortgage_calculator_web_app/static/css/main.c4a690a7.chunk.css",
+    "main.js": "/mortgage_calculator_web_app/static/js/main.ee3cdd2e.chunk.js",
+    "main.js.map": "/mortgage_calculator_web_app/static/js/main.ee3cdd2e.chunk.js.map",
+    "runtime-main.js": "/mortgage_calculator_web_app/static/js/runtime-main.9fe388d3.js",
+    "runtime-main.js.map": "/mortgage_calculator_web_app/static/js/runtime-main.9fe388d3.js.map",
+    "static/js/2.85460b19.chunk.js": "/mortgage_calculator_web_app/static/js/2.85460b19.chunk.js",
+    "static/js/2.85460b19.chunk.js.map": "/mortgage_calculator_web_app/static/js/2.85460b19.chunk.js.map",
+    "static/js/3.48e1674f.chunk.js": "/mortgage_calculator_web_app/static/js/3.48e1674f.chunk.js",
+    "static/js/3.48e1674f.chunk.js.map": "/mortgage_calculator_web_app/static/js/3.48e1674f.chunk.js.map",
+    "index.html": "/mortgage_calculator_web_app/index.html",
+    "static/css/main.c4a690a7.chunk.css.map": "/mortgage_calculator_web_app/static/css/main.c4a690a7.chunk.css.map",
+    "static/js/2.85460b19.chunk.js.LICENSE.txt": "/mortgage_calculator_web_app/static/js/2.85460b19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c83fe18.js",
+    "static/js/runtime-main.9fe388d3.js",
     "static/js/2.85460b19.chunk.js",
     "static/css/main.c4a690a7.chunk.css",
     "static/js/main.ee3cdd2e.chunk.js"
